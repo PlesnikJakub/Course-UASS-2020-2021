@@ -1,4 +1,4 @@
-# Data visualization
+# Data visualization - WIP
 
 # Lecture 3 - CZ
 
