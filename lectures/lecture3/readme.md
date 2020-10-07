@@ -37,4 +37,4 @@ Z vyexportovaných obrázků vytvořte krátký dokument ve kterém budou výstu
 
 Zdroj po další možnosti knihovny igraph naleznete pěkně zpracován [zde](https://kateto.net/networks-r-igraph).
 
-[Ukázkový script](\lectures\lecture3\script.r)
+[Ukázkový script](./script.r)
