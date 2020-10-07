@@ -8,6 +8,8 @@
 * Books about US politics
 * American College football
 
+Repozitáře s datasety naleznete v [prezentacích z přednášky](https://homel.vsb.cz/~kud007/uass_p.html).
+
 ## Zadání - Gephi
 Pro každý z datasetů proveďte v prostředí gephi následující:
 
@@ -24,11 +26,15 @@ Pro každý z datasetů proveďte v prostředí gephi následující:
 3. Vizualizujte vypočtené vlastnosti
 4. Výstupy průběžně exportujte do obrázků
 
-Z vyexportovaných obrázků vytvořte krátký dokument ve kterém budou výstupy pro každou síť a **krátký textový popis** k závěrům vaši analýzy a experimentů. (kdo má nejvyšší stupen, kolik je komunit, jak velká je síť, průměrný stupen)
+Z vyexportovaných obrázků vytvořte krátký dokument ve kterém budou výstupy pro každou síť a **krátký textový popis** k závěrům vaši analýzy a experimentů. (kdo má nejvyšší stupen, kolik je komunit, jak velká je síť, průměrný stupen).
 
-## Zadání - R - WIP
+## Zadání - R
 
 1. V prostředí R načtěte libovolný dataset ve formátu GML.
 2. Síť vizualizujte.
 3. Prozkoumejte možnosti vizualizace
 4. Prozkoumejte možnosti další analýzy pomocí knihovny IGraph
+
+Zdroj po další možnosti knihovny igraph naleznete pěkně zpracován [zde](https://kateto.net/networks-r-igraph).
+
+[Ukázkový script](\lectures\lecture3\script.r)
