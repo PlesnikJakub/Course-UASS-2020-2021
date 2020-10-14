@@ -8,3 +8,4 @@ In this course we will go through introduction of data science and specificaly a
 1. [Introduction](/lectures/lecture1.md) 
 1. [Instalation of tools](/lectures/lecture2.md) 
 1. [Data visualization](/lectures/lecture3/readme.md) 
+1. [Data visualization II](/lectures/lecture4/readme.md) 

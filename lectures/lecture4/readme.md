@@ -1,4 +1,4 @@
-# Data visualization 2
+# Data visualization II
 
 # Lecture 4 - CZ
 
