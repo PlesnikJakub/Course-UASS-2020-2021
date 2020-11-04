@@ -1,7 +1,7 @@
-# Cvičení č. 5
+# Bipartite graph analysis
 
 ## Data 
-– stáhněte si data „UASS dotazník cv.zip“ z mého webu k předmětu.
+1. stáhněte si data „UASS dotazník cv.zip“ z vebu http://www.cs.vsb.cz/ochodkova/.
 
 ## Gephi
 1. Nalezněte srozumitelnou vizualizaci, ve které najdete komunity a odpovědi na další otázky.
