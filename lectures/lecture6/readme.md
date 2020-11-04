@@ -14,7 +14,7 @@
 2. Předchozí bod aplikujte na data z IMDB (soubor „actors_and_movies.csv“), analyzujte v Gephi obě sítě, hereckou i filmovou. (https://www.imdb.com/interfaces/ )
 
 ## Deadline
-Odevzdáte (mailem jako jeden ZIP archiv) vaše vizualizace pro sítě z bodů 2 až 4 spolu s odpověďmi na otázky. Deadline 11.10.2020 do 15:00. 
+Odevzdáte (mailem jako jeden ZIP archiv) vaše vizualizace pro sítě z bodů 2 až 4 spolu s odpověďmi na otázky. Deadline 11.11.2020 do 15:00. 
 Předmět emailu bude *UASS-XXX-CV6* kde *XXX* bude váš login
 
 * http://www.cs.vsb.cz/ochodkova/courses/UASS/uass_cv5.pdf
