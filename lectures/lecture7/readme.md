@@ -21,9 +21,11 @@ Vlastní emaily se stáhnou do CSV, to se dá parsovat téměř v čemkoliv. Pyt
 Podrobné zadání se nachází uvnitř 7z archivu. 
 
 
-Mimo konstrukci t
+Mimo konstrukci sítě je vhodné vytvořit jejich vizualizace a případný report s analýzou.
 
 ## Deadline
 
-Finální deadline je 25.5 
-
+* Finální deadline je 25.5 do 15.h do 15:00. 
+* Předmět emailu bude *UASS-XXX-EMAIL* kde *XXX* bude váš login
+* V emailu bude jeden zip archiv, který bude obsahovat vámi vytvoření sítě a PDF s reportem.
+* Report bude obsahovat screenshoty z gephi a analýzu sítě dle vašeho uvážení
