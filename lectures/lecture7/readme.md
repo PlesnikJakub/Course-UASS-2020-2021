@@ -23,6 +23,12 @@ Podrobné zadání se nachází uvnitř 7z archivu.
 
 Mimo konstrukci sítě je vhodné vytvořit jejich vizualizace a případný report s analýzou.
 
+## Ukázka implementace
+:warning: nezaručuji správnost, jde jen o principy, čtení, zápis, parsing.
+
+https://gist.github.com/PlesnikJakub/929317a9751fd65c0a90b0bcc889bc6b
+
+
 ## Deadline
 
 * Finální deadline je 25.5 do 15.h do 15:00. 
